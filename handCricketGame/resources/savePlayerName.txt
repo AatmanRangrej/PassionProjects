@@ -1,0 +1,23 @@
+Aatman 0	 You Won the Toss.	You selected to Bowl first.	Target set by Comp 4	Comp WON the Game.	User Lost by 3 runs.
+Aatman 1	 Comp Won the Toss.	Comp selected to Bat first.	Target set by Comp 48	Comp WON the Game.	User Lost by 38 runs.
+Aatman 2	 You Won the Toss.	You selected to Bowl first.	Target set by Comp 1	You WON the Game. 	Comp Lost by 3 runs.
+Aatman 3	 Comp Won the Toss.	Comp selected to Bowl first.	Target set by User 1	Comp WON the Game.	User Lost by 2 runs.
+Aatman 6	 You Won the Toss.	You selected to Bowl first.	Target set by Comp 1	You WON the Game. 	Comp Lost by 3 runs.
+AATMAN 10	 Comp Won the Toss.	Comp selected to Bowl first.	Target set by User 29	You WON the Game. 	Comp Lost by 5 runs.
+Aatman 10	 Comp Won the Toss.	Comp selected to Bowl first.	Target set by User 1	Comp WON the Game.	User Lost by 4 runs.4
+Aatman Rangrej	 You Won the Toss.	You selected to Bowl first.	Target set by Comp 4	You WON the Game. 	Comp Lost by 2 runs.2
+Aatman Rangrej 123	  You Won the Toss.	You selected to Bat first.	Target set by User 55	You WON the Game. 	Comp Lost by 54 runs.	54
+Krusha	 You Won the Toss.	You selected to Bowl first.	Target set by Comp 37	Comp WON the Game.	User Lost by 36 runs.
+Aatman RangrejAatman Rangrej 1	 Comp Won the Toss.	Comp selected to Bat first.	Target set by Comp 1	You WON the Game. 	Comp Lost by 5 runs.
+Aatman Rangrej	 Comp Won the Toss.	Comp selected to Bat first.	Target set by Comp 6	Comp WON the Game.	User Lost by 3 runs.
+Aatman	 Comp Won the Toss.	Comp selected to Bowl first.	Target set by User 29	You WON the Game. 	Comp Lost by 28 runs.
+EXAY	 Comp Won the Toss.	Comp selected to Bowl first.	Target set by User 51	You WON the Game. 	Comp Lost by 13 runs.
+Aatman	 Comp Won the Toss.	Comp selected to Bat first.	Target set by Comp 1	You WON the Game. 	Comp Lost by 5 runs.
+Aatman	 Comp Won the Toss.	Comp selected to Bat first.	Target set by Comp 9	You WON the Game. 	Comp Lost by 1 runs.
+Aatman R	 Comp Won the Toss.	Comp selected to Bat first.	Target set by Comp 27	Comp WON the Game.	User Lost by 11 runs.
+Aatman 	 Comp Won the Toss.	Comp selected to Bat first.	Target set by Comp 3	Comp WON the Game.	User Lost by 2 runs.
+Aatman 	 Comp Won the Toss.	Comp selected to Bowl first.	Target set by User 4	Comp WON the Game.	User Lost by 1 runs.
+Aatman	 Comp Won the Toss.	Comp selected to Bowl first.	Target set by User 1	Comp WON the Game.	User Lost by 6 runs.
+Aatman	  Comp Won the Toss.	Comp selected to Bat first.	Target set by Comp 64	Comp WON the Game.	User Lost by 45 runs.
+Aatman R	 Comp Won the Toss.	Comp selected to Bowl first.	Target set by User 13	You WON the Game. 	Comp Lost by 3 runs.
+Aatman	 Comp Won the Toss.	Comp selected to Bowl first.	Target set by User 17	You WON the Game. 	Comp Lost by 16 runs.
